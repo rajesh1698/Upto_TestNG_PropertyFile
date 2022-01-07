@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153467" started-at="2021-12-30T19:24:36 IST" finished-at="2021-12-30T19:27:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153467" started-at="2021-12-30T19:24:36 IST" finished-at="2021-12-30T19:27:09 IST">
+      <class name="com.TestNg_Project.Project1_TestNg">
+        <test-method status="PASS" signature="Url_Launch()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="Url_Launch" is-config="true" duration-ms="12121" started-at="2021-12-30T19:24:36 IST" finished-at="2021-12-30T19:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url_Launch -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="SignIn" is-config="true" duration-ms="9600" started-at="2021-12-30T19:24:48 IST" finished-at="2021-12-30T19:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="WomenDress()[pri:-1, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="WomenDress" duration-ms="27774" started-at="2021-12-30T19:24:58 IST" finished-at="2021-12-30T19:25:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WomenDress -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="Logout" is-config="true" duration-ms="7714" started-at="2021-12-30T19:25:25 IST" finished-at="2021-12-30T19:25:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="SignIn" is-config="true" duration-ms="8059" started-at="2021-12-30T19:25:33 IST" finished-at="2021-12-30T19:25:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="DressPage()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="DressPage" duration-ms="32902" started-at="2021-12-30T19:25:41 IST" finished-at="2021-12-30T19:26:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DressPage -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="Logout" is-config="true" duration-ms="6955" started-at="2021-12-30T19:26:14 IST" finished-at="2021-12-30T19:26:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="SignIn" is-config="true" duration-ms="8132" started-at="2021-12-30T19:26:21 IST" finished-at="2021-12-30T19:26:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="TShirts()[pri:1, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="TShirts" duration-ms="32567" started-at="2021-12-30T19:26:29 IST" finished-at="2021-12-30T19:27:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TShirts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="Logout" is-config="true" duration-ms="6620" started-at="2021-12-30T19:27:02 IST" finished-at="2021-12-30T19:27:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.TestNg_Project.Project1_TestNg@46271dd6]" name="Close" is-config="true" duration-ms="940" started-at="2021-12-30T19:27:08 IST" finished-at="2021-12-30T19:27:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- com.TestNg_Project.Project1_TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
